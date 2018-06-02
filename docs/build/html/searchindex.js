@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{halaman:0,indek:0,modul:0,pencarian:0},titles:["Welcome to Cakalang's documentation!"],titleterms:{cakalang:0,document:0,indic:0,tabl:0,welcom:0}})
